@@ -58,6 +58,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
         <tr>
         <td align="center">
                 <a href="https://alisolanki.com/">
+                    <img src="https://media.licdn.com/dms/image/v2/D4D03AQHEeZbQsAA6vA/profile-displayphoto-scale_200_200/B4DZgpN0CCHsAY-/0/1753038145806?e=2147483647&v=beta&t=ZMteaL6VX5EYqqu5_tkCywUvbzucjZ_PUDaIbPQkQBM" width="100px;"
+                        alt="Irfan abdul ghaffar" />
+                    <br />
+                    <sub>
+                        <b>Ali Solanki</b>
+                    </sub>
+                </a>
+            </td>    
+        <td align="center">
+                <a href="https://alisolanki.com/">
                     <img src="https://avatars.githubusercontent.com/u/55312000?v=4" width="100px;"
                         alt="Ali Solanki" />
                     <br />
